@@ -1,6 +1,6 @@
 # Stance Fitness Take-Home Test
 
-![APP UI]([http://url/to/img.png](https://github.com/vamsiac/Stance/blob/main/Screenshot%202024-02-15%20at%2018.44.09.png))
+![APP UI](http://url/to/img.png](https://github.com/vamsiac/Stance/blob/main/Screenshot%202024-02-15%20at%2018.44.09.png)
 
 Please read before review, what is being implemented is described in detail below
 
